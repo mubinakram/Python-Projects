@@ -22,3 +22,6 @@ GIAIC Assignment Q3 Python-Projects
 ## Project 5 Assignments:
 - Deployed URL: https://sde-system.streamlit.app/
 - Code URL: https://github.com/mubinakram/Python-Projects/blob/main/Secure_Data_Encryption_System-streamlit/main.py
+
+## Project 6 Assignments:
+- code URL: https://github.com/mubinakram/Python-Projects/tree/main/06_Build_Compose_and_Decorate_A_Complete_Traditional_OOP_Practice_Series
